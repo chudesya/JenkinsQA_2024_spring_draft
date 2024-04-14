@@ -11,7 +11,6 @@ import java.io.InputStream;
 import java.time.Duration;
 import java.util.Properties;
 
-
 public final class ProjectUtils {
 
     private static final String PREFIX_PROP = "local.";
